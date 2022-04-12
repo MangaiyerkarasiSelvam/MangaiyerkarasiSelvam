@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MangaiyerkarasiSelvam
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on learning new things on front end development
 - 📫 How to reach me - mangaiselvam113@gmail.com
 
